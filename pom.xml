@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>wechatparaQcode-pox</groupId>
-  <artifactId>wechatparaQcode-pox</artifactId>
+  <groupId>wechatparameterqrcode-pox</groupId>
+  <artifactId>wechatparameterqrcode-pox</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-  <name>wechatparaQcode-pox</name>
-  <description>wechatparaQcode-pox</description>
+  <name>wechatparameterqrcode-pox</name>
+  <description>wechatparameterqrcode-pox</description>
   
   	<properties>
 		<jersey.version>2.17</jersey.version>
